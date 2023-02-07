@@ -1,0 +1,107 @@
+/* Général */
+/*
+.btn-primary,
+{
+  color: #fff;
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: darken($brand-primary, 10%);
+    border-color: darken($brand-primary, 10%);
+  }
+}*/
+
+/* Login */
+.login-identityprovider-btn
+{
+  color: #fff;
+  background-color: $brand-primary;
+  border-color: $brand-primary;
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: darken($brand-primary, 10%);
+    border-color: darken($brand-primary, 10%);
+  }
+}
+
+/* Home */
+#homeCarousel {
+  border: none;
+  -webkit-box-shadow: 0 0 35px 0 rgba(154,161,171,.15);
+  box-shadow: 0 0 35px 0 rgba(154,161,171,.15);
+}
+
+#homeCarousel .carousel-caption {
+  background-color:#EF7F05;
+  border-radius: 0.5rem;
+}
+
+#homeCarousel .carousel-indicators li {
+  background-color: #006d94;
+}
+.coursename {
+  font-size: 2em;
+}
+
+.dashboard-card a {
+  text-decoration:none;
+}
+
+/* Footer */
+#page-footer .column-left{
+  display: none;
+}
+
+#page-footer .column-center{
+  text-align:right;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+#page-footer .column-right{
+  display: none;
+}
+
+.footer-columns > .row {
+  justify-content: flex-end;
+}
+
+.logininfo {
+  display: none !important;
+}
+.column-center a  {
+  background-color: #ef7f05 !important;
+  color: #fff !important;
+  padding: 0.375rem 0.75rem !important;
+  display:inline-block !important;
+  text-decoration:none;
+  border-radius: .5rem;
+}
+
+.column-center a:hover  {
+  background-color: #ca6b04 !important;
+}
+
+#page-footer .contactsitesupport:hover {
+  background-color: #1f7e9a !important;
+}
+#page-footer .contactsitesupport {
+  background-color: transparent !important;
+}
+.usertour {
+  margin-top:10px;
+}
+#page-footer .copyright {
+  display:none;
+}
+
+@media (min-width: 800px) {
+  .footer-columns>.row {
+    background:url('//devcours.univ-perp.fr/new/pluginfile.php/1/theme_moove/logo/1674721126/UPVD_Logo_Baseline_Hori_RVB_small.png');
+    background-repeat: no-repeat;
+    background-color: #282829;
+  }
+}
