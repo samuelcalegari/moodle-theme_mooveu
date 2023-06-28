@@ -105,3 +105,8 @@
     background-color: #282829;
   }
 }
+
+.dashboard-card-img[style*="data:image/svg+xml"] {
+  background-image:url('[[pix:theme_mooveu|default-course-img]]') !important;
+}
+
