@@ -106,10 +106,12 @@
   }
 }
 
+/* Default Image Course */
 .dashboard-card-img[style*="data:image/svg+xml"] {
   background-image:url('[[pix:theme_mooveu|default-course-img]]') !important;
 }
 
+/* courses cards fix in search page */
 .pagelayout-standard {
   .dashboard-card {
     position: relative;
