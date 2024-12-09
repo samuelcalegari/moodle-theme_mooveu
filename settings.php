@@ -18,7 +18,7 @@
  * Theme Mooveu block settings file
  *
  * @package    theme_mooveu
- * @copyright  2017 Willian Mano http://conecti.me
+ * @copyright  2024 Samuel Calegari - UPVD
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

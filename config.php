@@ -18,7 +18,7 @@
  * Moove UPVD.
  *
  * @package    theme_mooveu
- * @copyright  2023 Samuel Calegari - UPVD
+ * @copyright  2024 Samuel Calegari - UPVD
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
